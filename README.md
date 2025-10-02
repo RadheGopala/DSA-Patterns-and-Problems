@@ -298,6 +298,10 @@ If you find this repo useful, **please give it a star** to help others find it.
 ## 👨‍💻 Our Contributors 
 [![Contributors](https://img.shields.io/github/contributors/MrunaliniPachpute/DSA-Patterns-and-Problems?style=for-the-badge)](https://github.com/MrunaliniPachpute/DSA-Patterns-and-Problems/graphs/contributors)
 ### View our contributors : <a href="https://github.com/MrunaliniPachpute/DSA-Patterns-and-Problems/graphs/contributors"> Click Here</a>
+## Contributors
+Thanks to all the people who have contributed to this project!  
+[See all contributors](https://github.com/MrunaliniPachpute/DSA-Patterns-and-Problems/graphs/contributors)
+
 <div align="center">
 
 ![Rainbow Divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
