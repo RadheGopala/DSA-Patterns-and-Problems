@@ -225,6 +225,9 @@ DSA-Solutions/
 
 ## 👋 Contributors Welcome!
 
+@all-contributors please add @username for code
+
+
 This repository is **open for contributions**! If you love DSA and want to help others prepare for coding interviews, you can:
 
 - Add new problems with explanations and pseudo-code  
@@ -232,7 +235,7 @@ This repository is **open for contributions**! If you love DSA and want to help 
 - Fix broken links, typos, or styling issues  
 <div align="center">
 
-@all-contributors please add @username for code
+
 
 
 ![Rainbow Divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -300,14 +303,6 @@ If you find this repo useful, **please give it a star** to help others find it.
 
 ## 👨‍💻 Our Contributors 
 [![Contributors](https://img.shields.io/github/contributors/MrunaliniPachpute/DSA-Patterns-and-Problems?style=for-the-badge)](https://github.com/MrunaliniPachpute/DSA-Patterns-and-Problems/graphs/contributors)
-### View our contributors : <a href="https://github.com/MrunaliniPachpute/DSA-Patterns-and-Problems/graphs/contributors"> Click Here</a>
-## Contributors
-Thanks to all the people who have contributed to this project!  
-[See all contributors](https://github.com/MrunaliniPachpute/DSA-Patterns-and-Problems/graphs/contributors)
-
-## Contributors ✨
-
-Thanks goes to these wonderful people:
 
 ![Contributors](https://img.shields.io/github/contributors/MrunaliniPachpute/DSA-Patterns-and-Problems?color=brightgreen)
 
